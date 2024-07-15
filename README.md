@@ -57,12 +57,5 @@ The notebook includes various visualizations to help understand the cryptocurren
 
 ## Data Sources
 
-The data is fetched from a cryptocurrency API. Ensure you have the API key and the correct endpoint to fetch the data.
+The data is fetched from Coinmarketcap a cryptocurrency API. Ensure you have the API key and the correct endpoint to fetch the data.
 
-## Contributions
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
